@@ -1,0 +1,2 @@
+rootProject.name='ms_my_app'
+include ':app'
